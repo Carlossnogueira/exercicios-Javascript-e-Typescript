@@ -22,8 +22,8 @@ Repositório original: https://github.com/victorperin/Exercicios-Java
 | :---------------: | :---------------: |
 | 01 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 02 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
-| 03 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 04 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 03 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
+| 04 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 05 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 | 06 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 | 07 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
