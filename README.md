@@ -1,7 +1,7 @@
-# Exercícios - Typescript e Javascript
+# Exercícios - Typescript / JavaScript / Java
 
 
-Lista de Exercícios em JavaScript e Typescript
+Lista de Exercícios em Typescript / JavaScript / Java
 Repositório original: https://github.com/victorperin/Exercicios-Java
 
 **Atenção:** QUALQUER tipo de correção é bem-vinda, sinta-se à vontade para me enviar pull requests, issues, alterações na wiki, etc...
