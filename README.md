@@ -27,8 +27,8 @@ Repositório original: https://github.com/victorperin/Exercicios-Java
 | 05 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 06 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 07 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
-| 08 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
-| 09 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
+| 08 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
+| 09 | ![azul](https://cloud.githubusercontent.com/assets/5847145/6166115/634f3374-b294-11e4-85e2-b5483081ddcf.png) | Exercício finalizado (Ainda pode receber melhorias) |
 | 10 | ![cinza](https://cloud.githubusercontent.com/assets/5847145/6166112/63047c8a-b294-11e4-9333-3071910c11d2.png) |
 
 ### Nível 2: Estruturas Condicionais
